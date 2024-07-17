@@ -1,4 +1,4 @@
-***Creating a Simple Moving Average chart for a few stocks/crypto coins!***
+# ***Creating a Simple Moving Average chart for a few stocks/crypto coins!***
 
 Creates a SMA chart for the past day (15 min and 1 hr) if the stock/crypto exists in my Postgres database.
 
