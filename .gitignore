@@ -1,0 +1,6 @@
+/python_stock_data.py
+/run_py_stock_data.bat
+.ipynb_checkpoints/
+env/
+TickerMapper.ipynb/
+/.env

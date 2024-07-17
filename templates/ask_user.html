@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+{% endblock %}
+
+{% block body %}
+<h1 class = 'home-title'>Choose your stock/crypto!</h1>
+<form action="/display" class = 'choose-stock'>
+    What stock do you choose? <input type='text' name='stock'><br>
+    <p></p>
+    <input type='submit' value='Continue'>
+</form>
+{% endblock %}
